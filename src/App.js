@@ -58,8 +58,8 @@ function App() {
                                 <div className="box">
                                     <h2 className="sub-title">흡연</h2>
                                     <ul className="list">
-                                        <li className="item" onClick={toggle(3000)}>
-                                            <button type='button' className="link">흡연하지 않았어요</button>
+                                        <li className="item" onClick={toggle(2500)}>
+                                            <button type='button' className="link">흡연안함</button>
                                         </li>
                                     </ul>
                                 </div>
